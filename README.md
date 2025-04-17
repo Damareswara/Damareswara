@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Damareswara
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Damareswara I am a salesforce Developer
+- 👀 I’m interested in Coding, Playing Circket and gym
+- 🌱 I’m currently learning AI for Agent Force
+- 💞️ I’m looking to collaborate on Salesforce Development
+- 📫 How to reach me damareswaram@gmail.com
 
 <!---
 Damareswara/Damareswara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
